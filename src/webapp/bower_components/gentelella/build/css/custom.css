@@ -1,16 +1,15 @@
 
 html , body{
-	
  height:100%;
- 
+
 }
- 
+
 .full-width {
-	
+
  width:100%;
- 
+
  }
- 
+
 .full-height{
  height:100%;
  }
@@ -3393,6 +3392,7 @@ ul.project_files li a i {
 }
 .login {
     background: #F7F7F7
+
 }
 .login .fa-paw {
     font-size: 26px
@@ -3807,7 +3807,7 @@ fieldset {
     padding: 3px 20px
 }
 .cropper .docs-options .dropdown-menu>li:hover {
-    background-color: #f7f7f7
+    background-color: #f7f7f7;
 }
 .cropper .docs-options .dropdown-menu>li>label {
     display: block
@@ -4233,7 +4233,7 @@ ul.notifications {
 table thead .checkbox { margin-top:-7px;margin-top:-21px; }
 table thead .checkbox.radio { margin-top:-7px;margin-top:-21px; }
 */
-			
+
 .daterangepicker.xdisplay { width:228px; }
 
 .dataTables_wrapper > .row{
